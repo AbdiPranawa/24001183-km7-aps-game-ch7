@@ -1,6 +1,3 @@
-**LUPAAAA : NAMA REPO PROJECT PER TIM NYA YG CANTIK SESUAI APLIKASI YANG DIKERJAKANNYA YAH!!!**
-contoh : team10-API-perpustakaan
-
 requirement mini final project backend :
 
 1. REST API => CRUD, tapi gak cuman : contoh register, login, /me => check token ini punya siapa.
